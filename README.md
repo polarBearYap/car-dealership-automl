@@ -31,6 +31,14 @@
   - Deploying to Azure Kubernetes Service (AKS).
   - Refer to this [notebook](https://polarbearyap.github.io/car-dealership-automl/) to learn more.
 
+2. The azure_automl_car_price_prediction.ipynb includes source code for:
+  - Configure and run the Azure AutoML experiments.
+  - Retrieve the best model out of all runs and evaluate it.
+  - Refer to this [notebook](https://github.com/polarBearYap/car-dealership-automl/blob/main/azure_automl_car_price_prediction.ipynb) to learn more.
+  - Too bad, I forgot to save output for this notebook &#128531;.
+
+>> Note that both of these two notebooks are for display only. It needs a Azure Machine Learning workspace to execute.
+
 ## Technology Applied &#129302;
 - [Azure AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml): Auto optmization of machine learning models without even trying &#129315;.
 
