@@ -14,6 +14,13 @@
 
 ## Snapshot
 
+1. Machine Learning Workspace
+
+- ![snapshot10](snapshots/snapshot10.png)
+
+2. Model and the model explainer deployed to AKS cluster.
+- ![snapshot2](snapshots/snapshot2.png)
+
 > As mentionend [here](#Learning-Lessons), I deleted the machine learning workspace earlier on because it's too expensive to put idle. Thus, GIF is not available &#128531;.
 
 ## Summary
