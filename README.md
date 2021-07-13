@@ -3,7 +3,9 @@
 ## Table of Contents
 * [Learning Purpose](#Learning-Purpose-)
 * [Snapshot](#Snapshot)
-* [Summary](#Summary)
+* [Snapshot](#Snapshot)
+* [Technology Applied](#Technology-Applied-)
+* [Software Requirement](#Software-Requirement-)
 * [Learning Lessons](#Learning-Lessons)
 * [Credits](#Credits)
 
@@ -11,6 +13,13 @@
 1. To learn how to implement explainable AI in deployment.
 2. To learn ways to deploy machine learning models using AutoML APIs like Azure Machine Learning.
 3. To get my hands dirty in DevOps &#128521;.
+
+## Technology Applied &#129302;
+- [Azure AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml): Auto optmization of machine learning models without even trying &#129315;.
+
+## Software Requirement (Windows 10 Environment) &#128187;
+- Jupyter Notebook
+- Azure free account (Poor man choice &#129299;)
 
 ## Snapshot
 
@@ -38,13 +47,6 @@
   - Too bad, I forgot to save output for this notebook &#128531;.
 
 >> Note that both of these two notebooks are for display only. It needs a Azure Machine Learning workspace to execute.
-
-## Technology Applied &#129302;
-- [Azure AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml): Auto optmization of machine learning models without even trying &#129315;.
-
-## Software Requirement (Windows 10 Environment) &#128187;
-- Jupyter Notebook
-- Azure free account (Poor man choice &#129299;)
 
 ## Learning Lessons
 
