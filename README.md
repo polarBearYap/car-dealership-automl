@@ -24,6 +24,13 @@
   - Deploying to Azure Kubernetes Service (AKS).
   - Refer to this [notebook](https://polarbearyap.github.io/car-dealership-automl/) to learn more.
 
+## Technology Applied &#129302;
+- [Azure AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml): Auto optmization of machine learning models without even trying &#129315;.
+
+## Software Requirement (Windows 10 Environment) &#128187;
+- Jupyter Notebook
+- Azure free account (Poor man choice &#129299;)
+
 ## Learning Lessons
 
 - I learn how the Azure cost is calculated, next time I should better delete all the machine learning resources ASAP. Or else the storage fee going to pile up &#128184;! 
