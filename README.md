@@ -2,10 +2,10 @@
 
 ## Table of Contents
 * [Learning Purpose](#Learning-Purpose-)
-* [Snapshot](#Snapshot)
-* [Snapshot](#Snapshot)
 * [Technology Applied](#Technology-Applied-)
 * [Software Requirement](#Software-Requirement-)
+* [Snapshot](#Snapshot)
+* [Summary](#Summary)
 * [Learning Lessons](#Learning-Lessons)
 * [Credits](#Credits)
 
