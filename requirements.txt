@@ -1,0 +1,14 @@
+azureml-accel-models==1.31.0
+azureml-cli-common==1.31.0
+azureml-contrib-dataset==1.31.0
+azureml-contrib-fairness==1.31.0
+azureml-contrib-notebook==1.31.0
+azureml-contrib-pipeline-steps==1.31.0
+azureml-contrib-server==1.31.0
+azureml-contrib-services==1.31.0
+azureml-datadrift==1.31.0
+azureml-explain-model==1.31.0
+azureml-mlflow==1.31.0
+azureml-monitoring==0.1.0a21
+azureml-sdk==1.31.0
+azureml-widgets==1.31.0
