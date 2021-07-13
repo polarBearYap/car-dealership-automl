@@ -40,7 +40,7 @@
     
     b) Retrieve the best model out of all runs and evaluate it.
     
-    c) Refer to this [notebook](https://github.com/polarBearYap/car-dealership-automl/blob/main/azure_automl_car_price_prediction.ipynb) to learn more. Too bad, I forgot to save output for this notebook &#128531;.
+    c) Refer to this [notebook](https://github.com/polarBearYap/car-dealership-automl/blob/main/azure_automl_car_price_prediction.ipynb) for the source code. Too bad, I forgot to save output for this notebook &#128531;.
 
 2. The local_deployment_flask.ipynb includes:
 
@@ -48,13 +48,14 @@
     
       - The explainer can be used to generating feature importance values for the whole dataset (global) and/or individual predictions (local).
       - In short, explainable AI/XAI/model interpretability is important for understanding how a ML model predicts and promote end-user trust on AI.
+      - I learn the concepts of XAI mainly from [here](https://christophm.github.io/interpretable-ml-book/).  
       - More information regarding the explainer API can be found in this [MS Docs](https://docs.microsoft.com/en-gb/azure/machine-learning/how-to-machine-learning-interpretability).
     
     b) Deploy to local compute instance.
     
     c) Deploy to Azure Kubernetes Service (AKS).
     
-    d) Refer to this [notebook](https://polarbearyap.github.io/car-dealership-automl/) to learn more.
+    d) Refer to this [notebook](https://polarbearyap.github.io/car-dealership-automl/) for the source code.
 
 > Note that both of these two notebooks are for display only. It needs a Azure Machine Learning workspace to execute.
 
