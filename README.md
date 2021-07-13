@@ -52,7 +52,7 @@
     
       - The explainer can be used to generating feature importance values for the whole dataset (global) and/or individual predictions (local).
       - In short, explainable AI/XAI/model interpretability is important for understanding how a ML model predicts and promote end-user trust on AI.
-      - I learn the concepts of XAI mainly from [here](https://christophm.github.io/interpretable-ml-book/).  
+      - I learnt the concepts of XAI mainly from [here](https://christophm.github.io/interpretable-ml-book/).  
       - More information regarding the explainer API can be found in this [MS Docs](https://docs.microsoft.com/en-gb/azure/machine-learning/how-to-machine-learning-interpretability).
     
     b) Deploy to local compute instance.
