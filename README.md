@@ -17,7 +17,7 @@
 ## Technology Applied &#129302;
 - [Azure AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml): Auto optmization of machine learning models without even trying &#129315;.
 
-## Software Requirement (Windows 10 Environment) &#128187;
+## Software Requirement &#128187;
 - Jupyter Notebook
 - Azure free account (Poor man choice &#129299;)
 
