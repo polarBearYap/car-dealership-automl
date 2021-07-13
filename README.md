@@ -1,5 +1,9 @@
 # car-dealership-automl
 
+- An auto-trained machine learning model with interpretable prediction. (Normal ML model + model explainer)
+- A proof of concept/simple prototype for ML model deployment in Azure.
+- **Important**: Note that this repository is the prerequisite for another [repository](https://github.com/polarBearYap/car-dealership-flask-api). This repository is foucsed on model training and another one is focused on model deployment. Be sure to check out both.
+
 ## Table of Contents
 * [Learning Purpose](#Learning-Purpose-)
 * [Technology Applied](#Technology-Applied-)
